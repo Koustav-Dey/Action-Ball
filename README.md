@@ -1,41 +1,26 @@
-# Action-Ball
-This is a Simple Ball
-# Client-Sever-Interaction  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-  
+# Action-Ball                   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Hii I am Koustav. 
-This is a Python script .You Can use it to communicate with server and client.
+This is a Python script .This is a Simple Action Ball which is push automatically and comes back agvian and again . 
 
----
-### Working Process
-
-Client Send request to the server and server respoce for client. You can send request from atleast 10 Clients to the Server and Server keep Responce on it.
-
-Clients typically communicate with servers by using the TCP/IP protocol suite. TCP is a connection-oriented protocol, which means a connection is established and maintained until the application programs at each end have finished exchanging messages.
 
 <img src="https://github.com/Koustav-Dey/Action-Ball/blob/main/Action%20Ball.png" />    
 </a>&nbsp;&nbsp;
 
 
-### Use This Tool For Fun 😉
+### Use This Scipt For Learn Pygame 😉
 ---
-
-### For Using Remote system
-
-<h4> Change IP --> ('127.0.0.1',5090) --> client_socket.connect(('Remote ip',Port no)) </h4>
 
 ### Using Modules
 
 <p>
-  time<br>socket
+  time<br>pygame
 </p>
 
 ### Installing Process
 
 <p>
-  Open Windows Powershell<br>type Python and Hit Enter<br>type pip install sockets<br>paste the code
+  Open Windows Powershell<br>type Python and Hit Enter<br>type pip install pygame<br>paste the code on your python IDE
 </p>
 <hr>
 <a>
-    <img src="https://github.com/Koustav-Dey/Client-Sever-Interaction/blob/main/Img/Client-Server-%20Interaction.png?raw=true" />    
-</a>&nbsp;&nbsp;
-
